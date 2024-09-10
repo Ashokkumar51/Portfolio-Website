@@ -53,5 +53,4 @@ GitHub: Ashokkumar51
 LinkedIn: Soutapalli Ashok Kumar
 
 
-Make sure to replace `""` with the actual values for your GitHub repository before uploading it.
-
+Make sure to replace `"https://github.com/Ashokkumar51/Portfolio-Website"` with the actual values for your GitHub repository before uploading it.
