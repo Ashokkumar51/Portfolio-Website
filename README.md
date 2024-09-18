@@ -8,7 +8,6 @@ This repository contains the source code for my personal portfolio website, wher
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 - [Website](#website)
 
